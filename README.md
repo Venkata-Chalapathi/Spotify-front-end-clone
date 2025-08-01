@@ -1,7 +1,7 @@
 # 🎧 Spotify Clone (HTML & CSS Only)
 
 Welcome to my first web development project — a **Spotify Clone** built entirely using **HTML and CSS**!  
-This project replicates the frontend UI of Spotify and was created as part of my learning journey through **Apna College (Sigma 4.0)** under the guidance of **Shradha Didi**.
+This project replicates the frontend UI of Spotify and was created as part of my learning journey through **Apna College** under the guidance of **Shradha Mam**.
 
 ## 📌 Project Highlights
 - 🎨 Fully responsive UI design (home page layout)
